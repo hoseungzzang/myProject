@@ -1,0 +1,38 @@
+﻿  dsa.c
+c:\users\joo\source\repos\project6\project6\dsa.c(48): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+c:\users\joo\source\repos\project6\project6\dsa.c(90): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+c:\users\joo\source\repos\project6\project6\dsa.c(130): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+c:\users\joo\source\repos\project6\project6\dsa.c(180): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+c:\users\joo\source\repos\project6\project6\dsa.c(212): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+c:\users\joo\source\repos\project6\project6\dsa.c(326): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(386): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(447): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(513): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(325): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(385): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(512): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(521): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xed'이(가) 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(522): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xed'이(가) 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(524): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xed'이(가) 있습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(607): warning C4552: '^': 식의 결과가 사용되지 않습니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(591): warning C4101: 's2' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(591): warning C4101: 's1' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(591): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(588): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(770): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(770): warning C4101: 'sun' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(770): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(770): warning C4101: 'smajor' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(771): warning C4101: 'stong' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(771): warning C4101: 'slive' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(770): warning C4101: 'shagbun' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(771): warning C4101: 'tong' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(770): warning C4101: 'sname' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(815): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(815): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(816): warning C4101: 'slive' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(816): warning C4101: 'tong' :참조되지 않은 지역 변수입니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(525): warning C4716: 'card': 값을 반환해야 합니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(518): warning C4716: 'sunmoonpayment': 값을 반환해야 합니다.
+c:\users\joo\source\repos\project6\project6\dsa.c(768): warning C4716: 'member': 값을 반환해야 합니다.
+  Project6.vcxproj -> C:\Users\joo\source\repos\Project6\Debug\Project6.exe
