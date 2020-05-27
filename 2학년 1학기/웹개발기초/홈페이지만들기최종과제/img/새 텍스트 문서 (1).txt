@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charest "EUC-KR">
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="">
+</head>
+<body>
+
+<div class="wrap">
+
+<!-- 상단 헤더영역 (header) -->
+<header> 
+<a href="index.html"> <img class="Logo" src="img/logo.png"/> </a>
+<nav class="top_menu">HOME | LOGIN | JOIN | NOTICE </nav>
+<nav class="main_menu">	
+	<ul>
+		<li> <a href="bood_list.html">자유게시판</a> </li>
+		<li> <a href="#"> 기타 연주</a> </li>
+		<li> <a href="#"> 공동 구매</a> </li>
+		<li> <a href="#"> 연주회 안내</a> </li>
+		<li> <a href="#"> 회원 게시판</a> </li>
+	</ul>
+</nav>
+
+
+</header>
+
+<!-- 왼쪽 메뉴 영역(aisde) -->
+<aside>  </aside>
+
+<!-- 오른쪽 메인 콘텐츠 영역 -->
+<section>  </section>
+
+<!-- 하단 푸터 영역(footer) -->
+<footer> </footer>
+
+</div>
+
+
+
+</body>
+</html>

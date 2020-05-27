@@ -1,0 +1,33 @@
+@charset "EUC-KR";
+
+/* 본문 우측 메인 영역 */
+
+section.main{width:758px; float:right;}
+section.main .free {width:750px;}
+sectiom.main .latest_title {
+	padding-bottom:3px;
+	border-bottom:solid 1px #cccccc;
+}
+
+section.main.lastest_title img.latest_img {
+	float:left;
+}
+section.main.lastest_title img.more {
+	float:right;
+}
+
+section.main .latest_content .image {
+	float:left; margin:10px 0 0 20px;
+}
+section.main .latest_content .list {
+	float:right;
+}
+section.main .latest_content li {
+	padding:10px 0 10px 0;
+}
+section.main .latest_content .list div {
+	float:left;
+}
+section.main .latest_content .list .subject {
+	width:500px;
+}
